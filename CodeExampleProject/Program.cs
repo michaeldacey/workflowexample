@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CodeExample
+namespace CodeExampleProject
 {
     class Program
     {
